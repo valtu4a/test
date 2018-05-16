@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+bower_components/
+.DS_Store
+desktop.ini
+Thumbs.db
+package-lock.json
